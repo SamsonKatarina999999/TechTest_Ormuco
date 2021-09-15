@@ -2,7 +2,7 @@
 
 namespace TechTest_Ormuco
 {
-    class Program
+    public class Q1
     {
         static void Main(string[] args)
         {
@@ -27,12 +27,12 @@ namespace TechTest_Ormuco
 
         }
 
-        static bool IsCross(Line l1, Line l2)
+        public static bool IsCross(Line l1, Line l2)
         {
             return ((l1.v1 - l2.v2) * (l1.v2 - l2.v1)) <= 0 ? true : false;
         }
 
-        struct Line
+        public struct Line
         {
             public double v1;
             public double v2;
