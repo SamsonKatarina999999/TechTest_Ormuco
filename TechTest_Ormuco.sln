@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechTest_Ormuco", "TechTest_Ormuco\TechTest_Ormuco.csproj", "{25CC0C27-C7ED-4FDC-827B-390622D2542B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q1", "TechTest_Ormuco\Q1.csproj", "{25CC0C27-C7ED-4FDC-827B-390622D2542B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{F98F995F-A865-4140-A927-8270AFD301AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q2", "Q2\Q2.csproj", "{422BB074-58D4-4F3E-AAB6-B52C0EC318CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3", "Q3\Q3.csproj", "{F6062B08-E710-411F-B3C3-438DF8B79729}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{F98F995F-A865-4140-A927-8270AFD301AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F98F995F-A865-4140-A927-8270AFD301AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F98F995F-A865-4140-A927-8270AFD301AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422BB074-58D4-4F3E-AAB6-B52C0EC318CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422BB074-58D4-4F3E-AAB6-B52C0EC318CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422BB074-58D4-4F3E-AAB6-B52C0EC318CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422BB074-58D4-4F3E-AAB6-B52C0EC318CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6062B08-E710-411F-B3C3-438DF8B79729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6062B08-E710-411F-B3C3-438DF8B79729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6062B08-E710-411F-B3C3-438DF8B79729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6062B08-E710-411F-B3C3-438DF8B79729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

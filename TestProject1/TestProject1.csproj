@@ -14,7 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TechTest_Ormuco\TechTest_Ormuco.csproj" />
+    <ProjectReference Include="..\Q2\Q2.csproj" />
+    <ProjectReference Include="..\Q3\Q3.csproj" />
+    <ProjectReference Include="..\TechTest_Ormuco\Q1.csproj" />
   </ItemGroup>
 
 </Project>

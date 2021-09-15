@@ -1,11 +1,10 @@
 using NUnit.Framework;
 using System;
-using TechTest_Ormuco;
-using static TechTest_Ormuco.Q1;
+using static Q1.Q1;
 
 namespace TestProject1
 {
-    public class Tests
+    public class UnitTestQ1
     {
         [SetUp]
         public void Setup()
